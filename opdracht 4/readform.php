@@ -25,7 +25,7 @@ switch ($zoekterm){
         break;
     default:
         echo 'je hebt de '.$zoekterm.' als carrosorie gekozen.'.' dus je wilt uniek zijn :)';
-        
+
 }
 
 $kleur = $_POST['kleur'];
